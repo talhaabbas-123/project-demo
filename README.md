@@ -1,4 +1,4 @@
 # project-demo
 This is my First Git Repository.
 <br>
-Author - Talha Abbas
+Author - Talha Abbas(Qureshi)
